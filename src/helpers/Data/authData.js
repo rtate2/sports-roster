@@ -1,5 +1,5 @@
 import firebase from 'firebase/app';
-import 'firesbase/auth';
+import 'firebase/auth';
 
 const getUid = () => firebase.auth().currentUser.uid;
 
