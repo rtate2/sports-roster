@@ -1,6 +1,7 @@
 import React from 'react';
 import authData from '../../helpers/Data/authData';
 import playerData from '../../helpers/Data/playerData';
+import Player from '../Player/player';
 
 import './playerContainer.scss';
 
@@ -18,7 +19,7 @@ class PlayerContainer extends React.Component {
   }
   render() {
     return(
-      <div>{this.state.players.map((player) => <h6>{player.name}</h6>)}</div>
+      <div>{this.state.players.map((player) => (<Player key={player.id} player={player} />))}</div>
     )
   }
 }
