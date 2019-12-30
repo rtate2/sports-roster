@@ -1,0 +1,70 @@
+{
+  "player1": {
+    "imageUrl": "https://png2.cleanpng.com/sh/4c348a9564bbd45cafb415c71e914265/L0KzQYm3VsEyN5DveZH0aYP2gLBuTf1qa5lmfd42anB1dLL1Tf5jaV51hNNEb3bpg37qiPlkaZh0RdRAbHz2PcT3gfNmNZtmReVxYYH4eb3zhb1wdpZmhJ8AYkHoRLfpWcJjbWU9S5C5MkS0R4q7UsE2Omk8SaU6NEW0R4qBTwBvbz==/kisspng-michael-jordan-nba-playoffs-chicago-bulls-space-ja-shaquille-oneal-5b1e4fb92be483.0241794215287131451798.png",
+    "name": "Michael 'Air' Jordan",
+    "position": "Shooting Guard",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player2": {
+    "imageUrl": "http://tsnimages.tsn.ca/ImageProvider/PlayerHeadshot?seoId=stephen-curry&width=620&height=620",
+    "name": "Stehen Curry",
+    "position": "Point Guard",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+  "player3": {
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/592.png",
+    "name": "Steve Nash",
+    "position": "Point Guard",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player4": {
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/110.png",
+    "name": "Kobe Bryant",
+    "position": "Shooting Guard",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player5": {
+    "imageUrl": "https://a.espncdn.com/i/headshots/nba/players/full/1966.png",
+    "name": "Lebron James",
+    "position": "Small Forward",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player6": {
+    "imageUrl": "http://tsnimages.tsn.ca/ImageProvider/PlayerHeadshot?seoId=kevin-durant&width=620&height=620",
+    "name": "Kevin Durant",
+    "position": "Small Forward",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player7": {
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/609.png",
+    "name": "Dirk Nowitzki",
+    "position": "Power Forward",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player8": {
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/215.png",
+    "name": "Tim Duncan",
+    "position": "Power Forward/Center",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player9": {
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/614.png",
+    "name": "Shaquille 'Diesel' O'Neal",
+    "position": "Power Fordward/Center",
+    "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
+  },
+
+  "player10": {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCk_iz-QDv8iq_NcYRRRl948gzdkY6SDP6dsovhZtUZz9xmzcu&s",
+    "name": "Spice Adams",
+    "position": "Dude on Ray's Team",
+    "uid": "123456789"
+  }
+}
