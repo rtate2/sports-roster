@@ -11,15 +11,30 @@ class PlayerContainer extends React.Component {
   }
 
   componentDidMount() {
+    this.getPlayers();
+  }
+
+  getPlayers = () => {
     playerData.getPlayersByUid(authData.getUid())
     .then((players) => {
       this.setState({ players })
     })
     .catch((errorFromPlayerContainer) => console.error({ errorFromPlayerContainer }));
   }
+
+  deletePlayer = (id) => {
+    playerData.deletePlayer(id)
+    .then(() => {
+      this.getPlayers();
+    })
+    .catch((error) => ({ error }));
+  }
+
   render() {
     return(
-      <div>{this.state.players.map((player) => (<Player key={player.id} player={player} />))}</div>
+      <div className="container">
+        <div className="row">{this.state.players.map((player) => (<Player key={player.id} player={player} deletePlayer={this.deletePlayer} />))}</div>
+      </div>
     )
   }
 }

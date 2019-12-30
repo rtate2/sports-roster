@@ -1,9 +1,21 @@
 .player-card {
   height: auto;
-  width: 400px;
+  width: 400rem;
+  align-content: center;
+  margin: 15px;
+  background-image: url('https://wallpaperaccess.com/full/128139.jpg');
 }
 
 .player-image {
-  width: 25%;
-  height: 30%;
+  width: 60%;
+  height: 50%;
+  align-self: center;
+}
+
+.text {
+  color: white;
+}
+
+.delete {
+  color: white;
 }
