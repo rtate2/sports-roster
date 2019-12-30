@@ -1,7 +1,7 @@
 {
   "player1": {
     "imageUrl": "https://png2.cleanpng.com/sh/4c348a9564bbd45cafb415c71e914265/L0KzQYm3VsEyN5DveZH0aYP2gLBuTf1qa5lmfd42anB1dLL1Tf5jaV51hNNEb3bpg37qiPlkaZh0RdRAbHz2PcT3gfNmNZtmReVxYYH4eb3zhb1wdpZmhJ8AYkHoRLfpWcJjbWU9S5C5MkS0R4q7UsE2Omk8SaU6NEW0R4qBTwBvbz==/kisspng-michael-jordan-nba-playoffs-chicago-bulls-space-ja-shaquille-oneal-5b1e4fb92be483.0241794215287131451798.png",
-    "name": "Michael 'Air' Jordan",
+    "name": "Michael Jordan",
     "position": "Shooting Guard",
     "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
   },
@@ -56,7 +56,7 @@
 
   "player9": {
     "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/614.png",
-    "name": "Shaquille 'Diesel' O'Neal",
+    "name": "Shaquille O'Neal",
     "position": "Power Fordward/Center",
     "uid": "WUHoJjKCDfRnxEgnjOwSOshcAt13"
   },
